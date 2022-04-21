@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Deepak Kumar Sood</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Deepak Kumar Sood</h1>
 <p>Coder / Researcher / Tech-Evangelist</p>
 
 - 💬 Ask me about **Anything**
