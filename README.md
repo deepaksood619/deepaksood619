@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Deepak Kumar Sood</h1>
 <p>Coder / Researcher / Tech-Evangelist</p>
 
