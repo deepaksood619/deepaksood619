@@ -16,6 +16,8 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mrrupendra&hide_border=true&theme=gotham" />
 </p>
 
+![](https://komarev.com/ghpvc/?username=deepaksood619&base=18000)
+
 ---
 
 <p align="center">
